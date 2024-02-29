@@ -1,4 +1,4 @@
-module github.com/rootless-containers/rootlesskit
+module github.com/Mirantis/rootlesskit
 
 go 1.19
 
